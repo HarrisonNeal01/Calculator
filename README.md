@@ -1,2 +1,2 @@
-Calculator app 
-Contains a switch satement 
+#Calculator app 
+#Contains a switch satement 
